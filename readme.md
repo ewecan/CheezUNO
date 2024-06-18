@@ -1,6 +1,8 @@
-# 【Cheez UNO】
+# CheezUNO
 
 > CheezUNO是一块让 IO引脚都带有酷炫LED的Arduino开发板
+
+<img src="./image/3D_PCB_CheeseUNO_01.png"  style="zoom:80%;" />
 
 ## 硬件说明：
 
@@ -16,10 +18,11 @@
 2. 烧录Bootloader：
    1. 板子焊好后需要烧录Bootloader，具体网上有很多资料啦~
 
+## 其他说明：
 
-## 其他说明：本项目为开源项目，不可商用！
+	**本项目 CheezUNO 为开源项目，不可商用！**
 
-
+<br/>
 
 ### 感谢以下项目：
 
